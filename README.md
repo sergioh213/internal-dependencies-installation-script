@@ -35,3 +35,4 @@ Eg: `--fileWithVariables=./path-to/variables-file.json`.
 
 * You can use both at the same time. Eg: some variables stored in the node environment and some others in the custom `json` file.
 
+* For now, the script must live next to the package.json file that it is reading from.
